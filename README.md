@@ -162,13 +162,13 @@ fn main() {
 ------
 * Impliment Modifers
 
-@reverse  
-@ugly  
-@pretty  
-@this  
-@valid  
-@flatten  
-@join  
+  @reverse  
+  @ugly  
+  @pretty  
+  @this  
+  @valid  
+  @flatten  
+  @join  
 
 * Custom Modifiers
 * Get Type
