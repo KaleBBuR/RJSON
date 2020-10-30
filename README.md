@@ -161,30 +161,18 @@ fn main() {
 # TODO
 ------
 * Impliment Modifers
-```
-@reverse
-```
-```
-@ugly
-```
-```
-@pretty
-```
-```
-@this
-```
-```
-@valid
-```
-```
-@flatten
-```
-```
-@join
-```
+
+@reverse  
+@ugly  
+@pretty  
+@this  
+@valid  
+@flatten  
+@join  
+
 * Custom Modifiers
 * Get Type
-* Raw
+* Raw`
 * JSON Lines ```..```
 * Check for esistence of a value
 * Optimize the holy hell out of this crappy code
